@@ -37,7 +37,7 @@ print("co2 required is",predictCO2)
 ```
 
 ## Output:
-![alt text](<WhatsApp Image 2024-05-08 at 09.35.53_6a0d1492.jpg>)
+![image](https://github.com/jokerjana/Multivariate-Linear-Regression/assets/147173630/d55539a6-b221-4ffb-9ae8-e28a8e493b62)
 
 
 ## Result
